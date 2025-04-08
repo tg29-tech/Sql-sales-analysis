@@ -13,7 +13,7 @@ Some of the key questions answered using SQL:
 -  Average Order Value
 -  New vs Repeat Customers
 
-See full queries in `analysis_queries.sql`.
+See full queries in `queries-file.sql`.
 # What You’ll Learn
 
 ✅ SQL Joins (INNER JOIN, GROUP BY, ORDER BY)  
